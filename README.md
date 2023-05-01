@@ -39,7 +39,7 @@
       <div>
         <h4>Gmail Clone</h4>
         <p>A clone of the Gmail web interface built using React.</p>
-        <a href="https://github.com/chirag9899/gmail-clone">View Project</a>
+        <a href="https://fir-faca6.web.app/">View Project</a>
       </div>
     </div>
 
@@ -49,15 +49,15 @@
       <div>
         <h4>Web3 App</h4>
         <p>A decentralized application (dApp) built using the Ethereum blockchain and web3.js.</p>
-        <a href="https://github.com/chirag9899/web3-app">View Project</a>
+        <a href="https://github.com/chirag9899/Ether_App">View Project</a>
       </div>
     </div>
     <div style="display:flex; align-items: center; margin: 20px;">
-      <img src="https://blog.logrocket.com/wp-content/uploads/2021/10/web3-js-ethereum-blockchain-tutorial.png" alt="Authentication App" style="width: 300px; height: 200px; margin-right: 40px;">
+      <img src="https://blog.wrappixel.com/wp-content/uploads/2020/09/react-firebase-authentication-s.jpg" alt="Authentication App" style="width: 300px; height: 200px; margin-right: 40px;">
       <div>
         <h4>Authentication App</h4>
         <p>A web application for user authentication built with React and Firebase.</p>
-        <a href="https://github.com/chirag9899/authentication-app">View Project</a>
+        <a href="https://superlative-monstera-436764.netlify.app/">View Project</a>
       </div>
     </div>
 
