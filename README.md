@@ -1,11 +1,10 @@
 <h2>Hey 👋, I'm <a>Chirag</a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://infrasingularity.com/">Infrasingularity</a></strong>
+<p>I'm a web3 software developer </p>
 <p> <a href="https://www.linkedin.com/in/chirag0264/"><img src="https://img.shields.io/badge/-@chirag0264-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/chirag0264" alt="LinkedIn Badge"></a>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://infrasingularity.com">Infrasingularity</a>.</li>
 <li>🧐 Learning about <strong>distributed systems</strong>.</li>
 <li>💬 Ping me about <strong>subgraph , substream , and web3 stuff.</strong>.</li>
 <li>🎉 Fun Fact: 我不会讲中文。</li>
